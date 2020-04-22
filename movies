@@ -1,195 +1,185 @@
-#EXTM3U
-#EXTINF:-1 group-title="Movies",24/7 Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",24/7 Retro TV
+#EXTINF:-1,24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 group-title="Movies",Akudji
+#EXTINF:-1,Akudji
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:-1 group-title="Movies",AYSAR Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 group-title="Movies",AYSAR MOVIE 12
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",B4U Movies
+#EXTINF:-1,B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:-1 group-title="Movies",B4U Movies
+#EXTINF:-1,B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="Movies",B4U Plus
+#EXTINF:-1,B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 group-title="Movies",Black Cinema
+#EXTINF:-1,Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="Movies",Cinefil GR
+#EXTINF:-1,Cinefil GR
 http://bit.ly/2Dn2Yty
-#EXTINF:-1 group-title="Movies",Cinema 1
+#EXTINF:-1,Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
-#EXTINF:-1 group-title="Movies",Cinema 1
+#EXTINF:-1,Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1 group-title="Movies",Cinema 1
+#EXTINF:-1,Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
-#EXTINF:-1 group-title="Movies",Cinema 1
+#EXTINF:-1,Cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
-#EXTINF:-1 group-title="Movies",Classics Marathi
+#EXTINF:-1,Classics Marathi
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Classics Tamil
+#EXTINF:-1,Classics Tamil
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Classics Telugu
+#EXTINF:-1,Classics Telugu
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Comedy Telugu
+#EXTINF:-1,Comedy Telugu
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Groovy
+#EXTINF:-1,Groovy
 http://bit.ly/2p6JqSo
-#EXTINF:-1 group-title="Movies",HBO2
+#EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1 group-title="Movies",HBO2
+#EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 group-title="Movies",HBO2
+#EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies",HBO2
+#EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies",HBO2
+#EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 group-title="Movies",HBO2
+#EXTINF:-1,HBO2
 http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 group-title="Movies",HBO2
+#EXTINF:-1,HBO2
 http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies",HBTV TICAVISION
+#EXTINF:-1,HBTV TICAVISION
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Imagine Movies
+#EXTINF:-1,Imagine Movies
 http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
-#EXTINF:-1 group-title="Movies",KTV
+#EXTINF:-1,KTV
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
-#EXTINF:-1 group-title="Movies",Kuriakos Cine
+#EXTINF:-1,Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies",MBC 2 HD
+#EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1 group-title="Movies",MBC 2 HD
+#EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1 group-title="Movies",MBC 2 HD
+#EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 group-title="Movies",MBC 2 HD
+#EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1 group-title="Movies",MBC 2 HD
+#EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
-#EXTINF:-1 group-title="Movies",MBC Action HD
+#EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
-#EXTINF:-1 group-title="Movies",MBC Action HD
+#EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Movies",MBC Action HD
+#EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1 group-title="Movies",MBC Action HD
+#EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1 group-title="Movies",MBC Action HD
+#EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1 group-title="Movies",MBC Action HD
+#EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
-#EXTINF:-1 group-title="Movies",MBC Action HD
+#EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
-#EXTINF:-1 group-title="Movies",MBC Drama
+#EXTINF:-1,MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-#EXTINF:-1 group-title="Movies",MBC Drama
+#EXTINF:-1,MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:-1 group-title="Movies",MBC Drama
+#EXTINF:-1,MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:-1 group-title="Movies",MBC Drama
+#EXTINF:-1,MBC Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Movies",MBC Drama
+#EXTINF:-1,MBC Drama
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1 group-title="Movies",MBC Drama
+#EXTINF:-1,MBC Drama
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
-#EXTINF:-1 group-title="Movies",MBC Max HD
+#EXTINF:-1,MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
-#EXTINF:-1 group-title="Movies",MBC Max HD
+#EXTINF:-1,MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Movies",MBC Max HD
+#EXTINF:-1,MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1 group-title="Movies",MBC Max HD
+#EXTINF:-1,MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1 group-title="Movies",MBC Max HD
+#EXTINF:-1,MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 group-title="Movies",MBC Max HD
+#EXTINF:-1,MBC Max HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 group-title="Movies",MBC Max HD
+#EXTINF:-1,MBC Max HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
-#EXTINF:-1 group-title="Movies",Movie Kingdom
+#EXTINF:-1,Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 group-title="Movies",Pluto TV Movies 1
+#EXTINF:-1,Pluto TV Movies 1
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="Movies",Premium Marathi
+#EXTINF:-1,Premium Marathi
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Rai Movie
+#EXTINF:-1,Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="Movies",Rai Premium
+#EXTINF:-1,Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 group-title="Movies",Rotana Cinema
+#EXTINF:-1,Rotana Cinema
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:-1 group-title="Movies",RTSH Film
+#EXTINF:-1,RTSH Film
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Star Movies
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1 group-title="Movies",Star Movies
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1 group-title="Movies",Star Movies
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1 group-title="Movies",Star Movies
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 group-title="Movies",Star Movies
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies",Star Movies
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies",Star Movies
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
-#EXTINF:-1 group-title="Movies",Sur Sagar TV
+#EXTINF:-1,Sur Sagar TV
 http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
-#EXTINF:-1 group-title="Movies",The Film Detective
+#EXTINF:-1,The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
-#EXTINF:-1 group-title="Movies",Wixlar
+#EXTINF:-1,Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Zee Aflam
+#EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1 group-title="Movies",Zee Bangla Cinema
+#EXTINF:-1,Zee Bangla Cinema
 https://ylive42-i.akamaihd.net/hls/live/690910/zeebanglacinema/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="Kids",Boing
+#EXTINF:-1,Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:-1 group-title="Kids",Boing
+#EXTINF:-1,Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1 group-title="Kids",Disney Junior
+#EXTINF:-1,Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="Kids",Duck TV
+#EXTINF:-1,Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1 group-title="Kids",EBS Kids
+#EXTINF:-1,EBS Kids
 http://bit.ly/2NFCRjg
-#EXTINF:-1 group-title="Kids",EBS Kids
+#EXTINF:-1,EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Kids",EBS Kids
+#EXTINF:-1,EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="Kids",IBC Kids
+#EXTINF:-1,IBC Kids
 https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
-#EXTINF:-1 group-title="Kids",KurdMax Papule
+#EXTINF:-1,KurdMax Papule
 http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-#EXTINF:-1 group-title="Kids",Kuriakos Kids
+#EXTINF:-1,Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Kids",SAT7kids
+#EXTINF:-1,SAT7kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
-#EXTINF:-1 group-title="Kids",SAT7kids
+#EXTINF:-1,SAT7kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Spacetoon
+#EXTINF:-1,Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:-1 group-title="Kids",Spacetoon
+#EXTINF:-1,Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-#EXTINF:-1 group-title="Kids",TCT Kids
+#EXTINF:-1,TCT Kids
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1 group-title="Kids",TéléToon+
+#EXTINF:-1,TéléToon+
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Kids",WZra Kids TV
+#EXTINF:-1,WZra Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="Kids",Малятко TV
+#EXTINF:-1,Малятко TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-#EXTINF:-1 group-title="Kids",Малятко TV
+#EXTINF:-1,Малятко TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Kids",靖洋卡通 / Nice Bingo
+#EXTINF:-1,靖洋卡通 / Nice Bingo
 http://61.58.60.230:9319/live/206.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="vod",24/7 arab Movies 11
 #EXTINF:-1,قهوة بورصة مصر
 http://nvkdn.redi-vo.com/vod/Qahwet_Borset_Masr_ar.mp4?code=1501309316704233&key=33896
 #EXTINF:-1,المهراجا
@@ -262,8 +252,6 @@ http://nvkdn.redi-vo.com/vod/3andama_Yka3.Al.Ensan_ar.mp4?code=1501309316704233&
 http://nvkdn.redi-vo.com/vod/Photo_Copy_ar.MP4?code=1501309316704233&key=33896
 #EXTINF:-1,ليل داخلي
 http://nvkdn.redi-vo.com/vod/leil_dakhli_ar.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,اسمعي
-http://nvkdn.redi-vo.com/vod/esma3i_ar.mp4?code=1501309316704233&key=33896
 #EXTINF:-1,شيخ جاكسون
 http://nvkdn.redi-vo.com/vod/cheikh_jakson_ar.mp4?code=1501309316704233&key=33896
 #EXTINF:-1,طلق صناعي
@@ -272,8 +260,6 @@ http://nvkdn.redi-vo.com/vod/Talq_Sena3y_AR.MP4?code=1501309316704233&key=33896
 http://nvkdn.redi-vo.com/vod/Nour_AR.mp4?code=1501309316704233&key=33896
 #EXTINF:-1,آخر ديك في مصر
 http://nvkdn.redi-vo.com/vod/ekher_dik_fi_maser_ar.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,اسمعي
-http://nvkdn.redi-vo.com/vod/listen_ar.mp4?code=1501309316704233&key=33896
 #EXTINF:-1,عمر الازرق
 http://nvkdn.redi-vo.com/vod/omar_elazrak_ar.mp4?code=1501309316704233&key=33896
 #EXTINF:-1,هروب اضطراري
@@ -384,184 +370,7 @@ http://nvkdn.redi-vo.com/vod/Mawlana.mp4?code=1501309316704233&key=33896
 http://nvkdn.redi-vo.com/vod/The_Other_Land_2016.mp4?code=1501309316704233&key=33896
 #EXTINF:-1,صابر جوجل
 http://nvkdn.redi-vo.com/vod/Saber_Google.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,أوضة الفيران
-http://nvkdn.redi-vo.com/vod/The_Mice_Room.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,قبل الربيع
-http://nvkdn.redi-vo.com/vod/Kabel_Alrabii.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,فتاة المصنع
-http://nvkdn.redi-vo.com/vod/fatet_elmasna3.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,الخروج من القاهرة
-http://nvkdn.redi-vo.com/vod/alkhourouj.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,haram el jasad
-http://nvkdn.redi-vo.com/vod/haram_el_jasad.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,hamlat fryzr
-http://nvkdn.redi-vo.com/vod/hamlat_fryzr.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Ashan khargeen 2016
-http://nvkdn.redi-vo.com/vod/Ashan_khargeen.2016.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Amoud fakri
-http://nvkdn.redi-vo.com/vod/Amoud_fakri.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,30 Youm Fi El3ez
-http://nvkdn.redi-vo.com/vod/30_Youm_Fi_El3ez.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Toufahat Hawwa
-http://nvkdn.redi-vo.com/vod/Toufahat_Hawwa.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Men 30 sana 2016
-http://nvkdn.redi-vo.com/vod/Men_30_sana_2016.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Abu Shanab 2016
-http://nvkdn.redi-vo.com/vod/Abu_Shanab_2016.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,3ezbet Abou Hashish
-http://nvkdn.redi-vo.com/vod/3ezbet_Abou_Hashish.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Decorate 2014
-http://nvkdn.redi-vo.com/vod/Decorate_2014.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Party Fi 7arty 2016
-http://nvkdn.redi-vo.com/vod/Party_Fi_7arty_2016.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Satou Mouthalath
-http://nvkdn.redi-vo.com/vod/Satou_Mouthalath.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Silah Altelmith
-http://nvkdn.redi-vo.com/vod/Silah_altelmith.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Titanic Arabic Version
-http://nvkdn.redi-vo.com/vod/Titanic_Arabic_Version.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Welcome To Lebanon 2016
-http://nvkdn.redi-vo.com/vod/Welcome_To_Lebanon_2016.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Zinzana 2015
-http://nvkdn.redi-vo.com/vod/Zinzana_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Ocean 14
-http://nvkdn.redi-vo.com/vod/Ocean_14.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Hassan w Bokloz
-http://nvkdn.redi-vo.com/vod/Hassan_Bokloz_2016.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Zamn Abo Alzahb
-http://nvkdn.redi-vo.com/vod/Zamn_Abo_Alzahb.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Qabl Zahmet Alseif
-http://nvkdn.redi-vo.com/vod/Qabl_Zahmet_Alseif.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Neima
-http://nvkdn.redi-vo.com/vod/Neima.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Karam El King
-http://nvkdn.redi-vo.com/vod/Karam_El_King.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Kangar Hobbina
-http://nvkdn.redi-vo.com/vod/Kangar_Hobbina.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Hepta
-http://nvkdn.redi-vo.com/vod/Hepta.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,El thaman
-http://nvkdn.redi-vo.com/vod/El_thaman.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Elli Ekhtachou Matou
-http://nvkdn.redi-vo.com/vod/Elli_Ekhtachou_Matou.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Zigzag
-http://nvkdn.redi-vo.com/vod/Zigzag.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,The Fourth Pyramid
-http://nvkdn.redi-vo.com/vod/The_Fourth_Pyramid_2016.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Sokar Mor
-http://nvkdn.redi-vo.com/vod/Sokar_Mor.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Shaket Daboos
-http://nvkdn.redi-vo.com/vod/Shaket_Daboos.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Paparazzi
-http://nvkdn.redi-vo.com/vod/Paparazzi.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Men Dahr Ragel
-http://nvkdn.redi-vo.com/vod/Men_Dahr_Ragel.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,kodourat gayer adiya
-http://nvkdn.redi-vo.com/vod/kodourat_gayer_adiya.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,kethbet kol youm
-http://nvkdn.redi-vo.com/vod/kethbet_kol_youm.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Kanet Elyaq
-http://nvkdn.redi-vo.com/vod/Kanet_Elyaq.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,hara Maznoah
-http://nvkdn.redi-vo.com/vod/hara_Maznoah_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Generation 4
-http://nvkdn.redi-vo.com/vod/Generation_4.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,El Meshakhasaty 2
-http://nvkdn.redi-vo.com/vod/El_Meshakhasaty_2.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Ellila Elkebeera
-http://nvkdn.redi-vo.com/vod/Ellila_Elkebeera_.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,3eyal 7areefa
-http://nvkdn.redi-vo.com/vod/3eyal_7areefa.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Zarf Se7i
-http://nvkdn.redi-vo.com/vod/Zarf_Se7i_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Youm Malouch Lazma
-http://nvkdn.redi-vo.com/vod/Youm_Malouch_Lazma_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Shadd Agzaa
-http://nvkdn.redi-vo.com/vod/Shadd_Agzaa_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Nashet Harket 3eal
-http://nvkdn.redi-vo.com/vod/Nashet_Harket_3eal.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Jeraan Al_Sa3d
-http://nvkdn.redi-vo.com/vod/Jeraan_Al_Sa3d.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Jamhoriyat Imbaba
-http://nvkdn.redi-vo.com/vod/Jamhoriyat_Imbaba_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Hayaty Mbhdela
-http://nvkdn.redi-vo.com/vod/Hayaty_Mbhdela_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Elhareb el3alamiya thalitha
-http://nvkdn.redi-vo.com/vod/Elhareb_el3alamiya_thalitha.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,EL 5alboos
-http://nvkdn.redi-vo.com/vod/EL_5alboos_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Cairo Time
-http://nvkdn.redi-vo.com/vod/Cairo_Time.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Al Mowaten Bors
-http://nvkdn.redi-vo.com/vod/Al_Mowaten_Bors.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Aldsaes
-http://nvkdn.redi-vo.com/vod/Aldsaes_2014.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Ahwak
-http://nvkdn.redi-vo.com/vod/Ahwak_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Zanket settet 2015
-http://nvkdn.redi-vo.com/vod/zanket_settet_2015.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Wled rezk
-http://nvkdn.redi-vo.com/vod/wled_rezk.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Wech sojoun
-http://nvkdn.redi-vo.com/vod/wech_sojoun.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Warda 2014
-http://nvkdn.redi-vo.com/vod/Warda_2014.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Kharej 3al khedma
-http://nvkdn.redi-vo.com/vod/kharej_3al_khedma.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Fazzaa3a
-http://nvkdn.redi-vo.com/vod/fazzaa3a.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,El kot
-http://nvkdn.redi-vo.com/vod/el_kot.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Aswar el kamar
-http://nvkdn.redi-vo.com/vod/aswar_el_kamar.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Warda
-http://nvkdn.redi-vo.com/vod/Warda.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Tamboula
-http://nvkdn.redi-vo.com/vod/Tambula.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Sou Tafahom
-http://nvkdn.redi-vo.com/vod/Sou2.Tafahom.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Salem Abu Okhtou
-http://nvkdn.redi-vo.com/vod/Salem.Abo.Okhto.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Ket We Far
-http://nvkdn.redi-vo.com/vod/Qot.W.Far.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Omar We Salwa
-http://nvkdn.redi-vo.com/vod/Omar.W.Salwa.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Nejmet Daoud
-http://nvkdn.redi-vo.com/vod/Njmet.Dawoud.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Naoum Fil Assal
-http://nvkdn.redi-vo.com/vod/nawm.fil.assal.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Zanket Settat
-http://nvkdn.redi-vo.com/vod/Mob.Of.Women.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Kan Rafiji
-http://nvkdn.redi-vo.com/vod/Kan.Rafiji.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Haz Wist El Balad
-http://nvkdn.redi-vo.com/vod/Haz.West.El-Balad.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Hassalena Ero3b
-http://nvkdn.redi-vo.com/vod/HassalLena.Elro3b.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Gharam Fi Stanboul
-http://nvkdn.redi-vo.com/vod/garam.Fi.eStnBol.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,From A to B
-http://nvkdn.redi-vo.com/vod/From.A.To.B.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Fatat El Masna3
-http://nvkdn.redi-vo.com/vod/Factory.Girl.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Kobtan Masr
-http://nvkdn.redi-vo.com/vod/captain_of_egypt.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Al Fil Al Azrak
-http://nvkdn.redi-vo.com/vod/Blue.Elephant.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Azazeel Ibn Chaytan
-http://nvkdn.redi-vo.com/vod/azazeel.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Nashet Haraket 3eyal
-http://nvkdn.redi-vo.com/vod/AT.Nashet.Harket.3eal.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Asrar 3aelya
-http://nvkdn.redi-vo.com/vod/Asrar.3a2leya.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Al Baar
-http://nvkdn.redi-vo.com/vod/Al-Baar.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Hamati Bethebeni
-http://nvkdn.redi-vo.com/vod/7amati.Bit7ebeni.mp4?code=1501309316704233&key=33896
-#EXTINF:-1,Hadeed
-http://nvkdn.redi-vo.com/vod/7adeed.mp4?code=1501309316704233&key=33896
-#EXTM3U
-#EXTINF:-1 group-title="fr",LEQUIPE 21 HD
+#EXTINF:-1,LEQUIPE 21 HD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/15
 #EXTINF:-1,TF1 HD
 http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/13.m3u8
@@ -579,8 +388,6 @@ http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/6.m3u8
 http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/7.m3u8
 #EXTINF:-1,TMC FHD
 http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/10.m3u8
-#EXTINF:-1,RMC SPORTS 3 SD
-http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
 #EXTINF:-1,RMC SPORT 3 HD
 http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
 #EXTINF:-1,RMC SPORTS 3 FHD
