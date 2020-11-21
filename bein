@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 ,makkah
+http://rt-arab.secure.footprint.net/1104_400Kb.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RAI MOVIE FULL HD
+http://luminar.tv:2300/violo/violo/10595?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RAI MOVIE FULL HD
+http://seeyoutv.net:2300/12/12/10595?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RAI MOVIE FULL HD
+http://momotv.eu:2300/caserta/caserta/10595?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RAI MOVIE HD
+http://seeyoutv.net:2300/12/12/10594?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RAI MOVIE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99255?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RAI MOVIE HD
+http://luminar.tv:2300/fabius/fabius/10594?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RAI MOVIE HD
+http://momotv.eu:2300/caserta/caserta/10594?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AXN MOVIES FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/1850?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",FOX MOVIES
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/1844?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BEIN MOVIES ACTION HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BEIN MOVIES FAMILY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80770?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BEIN MOVIES PREMIER 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17993?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BEIN MOVIES PREMIER HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18002?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BEIN MOVIES STARS HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18001?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BEIN MOVIES TURK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/81245?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART ACTION HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17983?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART CLASSIC HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138866?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART FAMILY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138865?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART FEST HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17976?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART GOLD HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17977?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART PLATIN 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17980?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART PLATIN HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17981?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART PREMIUM 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138864?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART PREMIUM HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17979?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",MOVIESMART TURK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17957?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zJ5idav.jpg",It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RAI MOVIE FULL HD
+http://seeyoutv.net:2300/live/12/12/10595.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",The Seventh Dimension (Public-OnDemandMovies) (US) (English)
+http://cdnvod.setv.ca/hls/The.Seventh.Dimension.2009.BRRip.XviD.MP3-RARBG.mp4/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/cQZdGc0.png",US | Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zJ5idav.jpg",It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/pIuJqYk.png",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/SAfy1us.png",US | STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",N TV MOVIES
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",SERIES+ HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30934?checkedby:iptvcat.com
