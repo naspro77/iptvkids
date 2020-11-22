@@ -1,81 +1,243 @@
 #EXTM3U
 #EXTINF:-1 ,makkah
 http://rt-arab.secure.footprint.net/1104_400Kb.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",BFLIX MOVIES
+#EXTINF:-1 group-title="Movies",BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MAHA MOVIE
+#EXTINF:-1 group-title="Movies",MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MANORANJAN MOVIES
+#EXTINF:-1 group-title="Movies",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",RAI MOVIE FULL HD
+#EXTINF:-1 group-title="Movies",RAI MOVIE FULL HD
 http://luminar.tv:2300/violo/violo/10595?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",RAI MOVIE FULL HD
+#EXTINF:-1 group-title="Movies",RAI MOVIE FULL HD
 http://seeyoutv.net:2300/12/12/10595?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",RAI MOVIE FULL HD
+#EXTINF:-1 group-title="Movies",RAI MOVIE FULL HD
 http://momotv.eu:2300/caserta/caserta/10595?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",RAI MOVIE HD
+#EXTINF:-1 group-title="Movies",RAI MOVIE HD
 http://seeyoutv.net:2300/12/12/10594?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",RAI MOVIE HD
+#EXTINF:-1 group-title="Movies",RAI MOVIE HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99255?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",RAI MOVIE HD
+#EXTINF:-1 group-title="Movies",RAI MOVIE HD
 http://luminar.tv:2300/fabius/fabius/10594?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",RAI MOVIE HD
+#EXTINF:-1 group-title="Movies",RAI MOVIE HD
 http://momotv.eu:2300/caserta/caserta/10594?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",AXN MOVIES FHD
+#EXTINF:-1 group-title="Movies",AXN MOVIES FHD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/1850?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",FOX MOVIES
+#EXTINF:-1 group-title="Movies",FOX MOVIES
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/1844?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",BEIN MOVIES ACTION HD
+#EXTINF:-1 group-title="Movies",BEIN MOVIES ACTION HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",BEIN MOVIES FAMILY HD
+#EXTINF:-1 group-title="Movies",BEIN MOVIES FAMILY HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80770?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",BEIN MOVIES PREMIER 2 HD
+#EXTINF:-1 group-title="Movies",BEIN MOVIES PREMIER 2 HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17993?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",BEIN MOVIES PREMIER HD
+#EXTINF:-1 group-title="Movies",BEIN MOVIES PREMIER HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18002?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",BEIN MOVIES STARS HD
+#EXTINF:-1 group-title="Movies",BEIN MOVIES STARS HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18001?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",BEIN MOVIES TURK HD
+#EXTINF:-1 group-title="Movies",BEIN MOVIES TURK HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/81245?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART ACTION HD
+#EXTINF:-1 group-title="Movies",MOVIESMART ACTION HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17983?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART CLASSIC HD
+#EXTINF:-1 group-title="Movies",MOVIESMART CLASSIC HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138866?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART FAMILY HD
+#EXTINF:-1 group-title="Movies",MOVIESMART FAMILY HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138865?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART FEST HD
+#EXTINF:-1 group-title="Movies",MOVIESMART FEST HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17976?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART GOLD HD
+#EXTINF:-1 group-title="Movies",MOVIESMART GOLD HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17977?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART PLATIN 2 HD
+#EXTINF:-1 group-title="Movies",MOVIESMART PLATIN 2 HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17980?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART PLATIN HD
+#EXTINF:-1 group-title="Movies",MOVIESMART PLATIN HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17981?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART PREMIUM 2 HD
+#EXTINF:-1 group-title="Movies",MOVIESMART PREMIUM 2 HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138864?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART PREMIUM HD
+#EXTINF:-1 group-title="Movies",MOVIESMART PREMIUM HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17979?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",MOVIESMART TURK HD
+#EXTINF:-1 group-title="Movies",MOVIESMART TURK HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17957?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zJ5idav.jpg",It’s At The Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/zJ5idav.jpg",It’s At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Movies Kingdom
+#EXTINF:-1 group-title="Movies",Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",RAI MOVIE FULL HD
+#EXTINF:-1 group-title="Movies",RAI MOVIE FULL HD
 http://seeyoutv.net:2300/live/12/12/10595.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",The Seventh Dimension (Public-OnDemandMovies) (US) (English)
+#EXTINF:-1 group-title="Movies",The Seventh Dimension (Public-OnDemandMovies) (US) (English)
 http://cdnvod.setv.ca/hls/The.Seventh.Dimension.2009.BRRip.XviD.MP3-RARBG.mp4/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Classic Movies
+#EXTINF:-1 group-title="Movies",Classic Movies
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/cQZdGc0.png",US | Filmrise Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/cQZdGc0.png",US | Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zJ5idav.jpg",It’s At The Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/zJ5idav.jpg",It’s At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/pIuJqYk.png",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/SAfy1us.png",US | STIRR Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/SAfy1us.png",US | STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",N TV MOVIES
+#EXTINF:-1 group-title="Movies",N TV MOVIES
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",SERIES+ HD
+#EXTINF:-1 group-title="Movies",SERIES+ HD
 http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30934?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:-2 group-title="Sport",SKY CINEMA SUSPENSE HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/86840?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY CINEMA SUSPENSE HD
+http://luminar.tv:2300/fabius/fabius/10513?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY CINEMA SUSPENSE SD
+http://luminar.tv:2300/violo/violo/10512?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/139699?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 2 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16359?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105443?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/86837?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 FULL HD
+http://luminar.tv:2300/violo/violo/10410?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 FULL HD
+http://luminar.tv:2300/fabius/fabius/10410?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 FULL HD
+http://momotv.eu:2300/caserta/caserta/10410?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 HD
+http://luminar.tv:2300/violo/violo/10409?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2344?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 HD
+http://luminar.tv:2300/fabius/fabius/10409?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 HD
+http://momotv.eu:2300/caserta/caserta/10409?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 24 SD
+http://luminar.tv:2300/violo/violo/10408?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 251
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105453?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 251 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2301?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 251 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2300?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 252
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105454?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 252 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2298?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 252 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2297?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 254
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105456?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 254 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2292?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 255
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105457?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT 255 FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2290?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2336?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA FULL HD
+http://luminar.tv:2300/fabius/fabius/10407?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA FULL HD
+http://momotv.eu:2300/caserta/caserta/10407?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA FULL HD
+http://luminar.tv:2300/violo/violo/10407?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA HD
+http://luminar.tv:2300/fabius/fabius/10406?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA HD
+http://momotv.eu:2300/caserta/caserta/10406?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA HD
+http://luminar.tv:2300/violo/violo/10406?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2335?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT ARENA SD
+http://luminar.tv:2300/violo/violo/10405?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT AUSTRIA 1 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/16366?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT COLLECTION
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105448?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT COLLECTION FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105379?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT COLLECTION HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99239?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT F1
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105450?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT F1 FULL HD
+http://luminar.tv:2300/violo/violo/10403?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT F1 FULL HD
+http://luminar.tv:2300/fabius/fabius/10403?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT F1 FULL HD
+http://momotv.eu:2300/caserta/caserta/10403?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT F1 HD
+http://momotv.eu:2300/caserta/caserta/10402?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT F1 HD
+http://luminar.tv:2300/violo/violo/10402?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT F1 HD
+http://luminar.tv:2300/fabius/fabius/10402?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT F1 SD
+http://luminar.tv:2300/violo/violo/10401?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/105445?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2339?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL FULL HD
+http://luminar.tv:2300/fabius/fabius/10400?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL FULL HD
+http://momotv.eu:2300/caserta/caserta/10400?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL FULL HD
+http://luminar.tv:2300/violo/violo/10400?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/2338?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL HD
+http://luminar.tv:2300/fabius/fabius/10399?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL HD
+http://momotv.eu:2300/caserta/caserta/10399?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL HD
+http://luminar.tv:2300/violo/violo/10399?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT FOOTBALL SD
+http://luminar.tv:2300/violo/violo/10398?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT GOLF FULL HD
+http://luminar.tv:2300/violo/violo/10397?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT GOLF FULL HD
+http://luminar.tv:2300/fabius/fabius/10397?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT GOLF FULL HD
+http://momotv.eu:2300/caserta/caserta/10397?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT GOLF HD
+http://luminar.tv:2300/violo/violo/10396?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT GOLF HD
+http://luminar.tv:2300/fabius/fabius/10396?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT GOLF HD
+http://momotv.eu:2300/caserta/caserta/10396?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT GOLF SD
+http://luminar.tv:2300/violo/violo/10395?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT MOTOGP FULL HD
+http://luminar.tv:2300/violo/violo/10394?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT MOTOGP FULL HD
+http://luminar.tv:2300/fabius/fabius/10394?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT MOTOGP FULL HD
+http://momotv.eu:2300/caserta/caserta/10394?checkedby:iptvcat.com
+#EXTINF:-2 group-title="Sport",SKY SPORT MOTOGP HD
+http://luminar.tv:2300/violo/violo/10393?checkedby:iptvcat.com
+#EXTINF: 2 tvg-country="AE" tvg-logo="" group-title="Sport",Abu Dhabi Sports,Abu Dhabi Sports 1,Abu Dhabi Sports 1 HD (Opt-1),Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:iptvcat.com
+#EXTINF:2 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
+#EXTINF:2 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com
+#EXTINF:2 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 1 (1024×576),Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:iptvcat.com
+#EXTINF:2 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 3 (1024×576),Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:iptvcat.com
+#EXTINF:2 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 4 (1024×576),Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4&checkedby:iptvcat.com
+#EXTINF:2 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:2 tvg-country="MY" tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Sport",DUBAI SPORTS 2 (1920×1080),SPORT : Dubai Sports 2,SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:2 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:2 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",SHARJA SPORTS (1920×1080),Sharjah Sports,SPORT : Sharjah Sports,SPORT | Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:2 tvg-country="UN" tvg-logo="" group-title="Sport",Sharjah Sports,الشارقة سبورت
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=&checkedby:iptvcat.com
+#EXTINF:2 tvg-country="ES" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Sport",7 Murcia,sp:Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?checkedby:iptvcat.com
+
+
