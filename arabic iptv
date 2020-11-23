@@ -3,7 +3,22 @@
 http://tv.teledunet.com:25461/live/web/premium/10232.m3u8
 #EXTINF:-1 group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
-#EXTM3U
+#EXTINF:-1 group-title="Algeria",Canal Algérie
+http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
+#EXTINF:-1 group-title="Algeria",Chaine Nord-Africaine
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="United Arab Emirates",Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 group-title="United Arab Emirates",Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 group-title="United Arab Emirates",Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1 group-title="United Arab Emirates",Citruss TV
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+#EXTINF:-1 group-title="United Arab Emirates",Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 group-title="United Arab Emirates",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/eE1SdyA.png",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7Bx66K7.jpg",Abu Dhabi Drama
