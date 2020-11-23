@@ -590,3 +590,167 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 http://95.170.215.118/hls/m3u8/Fishing-And-Hunt.m3u8
 #EXTINF:-1 group-title="قنوات الوثائقية",قناة كيف ؟؟
 http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1  tvg-logo="https://www.anixehd.tv/styles/img/logo/AnixeHD-Serie.png",ANIXE
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 ,MEKAMELEEN TV (1920�1080)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,MTA 3 (1920�1080)
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Mekka tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?v=&checkedby:iptvcat.com
+#EXTINF:-1 ,National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,OM | Oman TV - Oman TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,OM | Oman TV Cultural - Oman TV Cultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,OM | Oman TV Mubashir - Oman TV Mubashir
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,OPPNA KANALEN
+http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,PALESTINIAN TV (1920�1080)
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,QA | Qatar Television - Qatar Television
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Qatar TV
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Qatar TV 2
+http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,SA | Saudi TV 1 - Saudi TV 1
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,SAMA DUBAI (1920�1080)
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Sky News Arabia - SKY NEWS ARABIA (1280�720)
+https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,STORTINGET
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news&checkedby:iptvcat.com
+#EXTINF:-1 ,Tunisie Immobilier TV
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,WATAN TV (1920�1080)
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Watan TV - WATAR (1280�720)
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ZAGROS TV (1280�720)
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ZEE ALWAN (1280�720)
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541&checkedby:iptvcat.com
+#EXTINF:-1 ,ZEE ALWAN (1280�720)
+http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ZEE ALWAN (1280�720)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ZEE ALWAN (1280�720)
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,arrafidaintv
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?v=&checkedby:iptvcat.com
+#EXTINF:-1 ,kanal10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,kkr
+http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,kurd max
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,makkah
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,makkah
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,makkah
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,makkah
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,makkah
+http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,makkah
+http://rt-arab.secure.footprint.net/1104_400Kb.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,WWW.IPTVGLOB.COM
+https://i.ibb.co/L8vh1ty/IPTV-world-16000.jpg
+#EXTINF:-1 ,STAR TV FHD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
+#EXTINF:-1 ,NR1 TURK HD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e187779c76_1/playlist.m3u8
+#EXTINF:-1 ,NR1 ASK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 ,NR1 DAMAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 ,KRAL TV POP HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,KRAL HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 ,TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/chunklist_w1644874314.m3u8
+#EXTINF:-1 ,MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist_w1585059352_b664000_sltur.m3u8
+#EXTINF:-1 ,BURSA TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist_w453158305.m3u8
+#EXTINF:-1 ,ICEL TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8
+#EXTINF:-1 ,ARAS TV
+https://59cba4d34b678.streamlock.net/canlitv/arastv/chunklist_w1029014061.m3u8
+#EXTINF:-1 ,AZB: INTER AZ
+http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
+#EXTINF:-1 ,Unknown_27
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 ,Unknown_42
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 ,Unknown_50
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 ,Unknown_51
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 ,Unknown_53
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Unknown_56
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Unknown_65
+http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
+#EXTINF:-1 ,Unknown_88
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Unknown_89
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 ,Unknown_101
+http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Unknown_110
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+#EXTINF:-1 ,Unknown_113
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 ,Unknown_117
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_126
+http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8
+#EXTINF:-1 ,Unknown_132
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 ,Unknown_145
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+#EXTINF:-1 ,Unknown_150
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 ,Unknown_152
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 ,Unknown_174
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 ,Unknown_175
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 ,Unknown_180
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 ,Agro TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 ,Agro TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 ,CCTV-6FHD
+http://223.110.245.172:80/PLTV/3/224/3221227209/index.m3u8?icpid=88888888&from=0&hms_devid=3,23
+#EXTINF:-1 ,Fox Life
+http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
+#EXTINF:-1 ,Inedit
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 ,Speranta TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 ,The Q India
+https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
+#EXTINF:-1 ,东南卫视
+http://202.107.188.231:5002/dongnan_hdcq-1.m3u8?token=rfhPM674TzOvXE8z_yoongoo&amp;ct=wifi&amp;gid=dongnan_hdcq&amp;sid=dongnan_hd
+#EXTINF:-1 ,山西卫视
+http://202.107.188.249:5002/shanxi_hdcq-1.m3u8?token=hwKWTIgClkyJApZM_yoongoo&amp;ct=wifi&amp;gid=shanxi_hdcq&amp;sid=shanxi_hd
+#EXTINF:-1 ,新疆-11
+
